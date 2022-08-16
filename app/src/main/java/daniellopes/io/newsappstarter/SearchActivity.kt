@@ -1,4 +1,4 @@
-package daniellopes
+package daniellopes.io.newsappstarter
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
